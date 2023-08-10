@@ -45,7 +45,7 @@ npx cypress run
 
 Teste 01 e Teste 02. 
 
-Ambos apresentam a palavra Obrigado na tela, mas esta palavra está desabilitada nos testes automatizados.
+Ao final do testes, após clicar no botão <Enviar> era esperado receber uma mensagem de sucesso "Obrigado!" visível, entretanto ambos os cenários apresentaram a palavra Obrigado no HTML, mas esta palavra está desabilitada nos testes automatizados.
 
 OBS: Este erro não ocorre nos testes manuais.
 
