@@ -1,0 +1,34 @@
+{
+    "Teste_01": {
+        "nome": "Assucena Saldanha Araujo",
+        "email": "araujoassucena@gmail.com",
+        "telefone": "(88)992168783",
+        "descricao": "Oi, estou fazendo o teste tecnico"
+    },
+    "Teste_02": {
+        "nome": "Assucena Saldanha Araujo",
+        "email": "araujoassucena@gmail.com",
+        "telefone": "(88)992168783"
+    },
+    "Teste_03": {
+        "nome": "Assucena Saldanha Araujo",
+        "email": "invalido@",
+        "telefone": "(88)992168783",
+        "descricao": "Oi, estou fazendo o teste tecnico"
+    },
+    "Teste_04": {
+        "email": "araujoassucena@gmail.com",
+        "telefone": "(88)992168783",
+        "descricao": "Oi, estou fazendo o teste tecnico"
+    },
+    "Teste_05": {
+        "nome": "Assucena Saldanha Araujo",
+        "telefone": "(88)992168783",
+        "descricao": "Oi, estou fazendo o teste tecnico"
+    },
+    "Teste_06": {
+        "nome": "Assucena Saldanha Araujo",
+        "email": "araujoassucena@gmail.com",
+        "descricao": "Oi, estou fazendo o teste tecnico"
+    }
+}
